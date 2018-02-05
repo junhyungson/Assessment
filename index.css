@@ -23,6 +23,11 @@
 #centerbox {
 	height:100%;
 	position:absolute;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	top:0px;
+	
 	
 }
 
@@ -55,11 +60,11 @@
 }
 
 #up{
-	up:0px;
+	top:0px;
 }
 
 #down{
-	down:0px;
+	bottom:0px;
 }
 #avatar, #control {
 	display:inline-block;
