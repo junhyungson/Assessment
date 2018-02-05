@@ -26,7 +26,7 @@
 	
 }
 
-#arrow{
+.arrow{
 	position:absolute;
 }
 
@@ -44,6 +44,19 @@
 	right:0px;
 }
 
+#up, #down {
+	left:0px;
+	right:0px;
+	margin:auto;
+}
+
+#up{
+	up:0px;
+}
+
+#down{
+	down:0px;
+}
 #avatar, #control {
 	display:inline-block;
 	
